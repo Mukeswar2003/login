@@ -3,7 +3,7 @@ whatis(1)                                                            whatis(1)
 
 
 NAME
-       whatis - search the whatis database for complete words.
+Mukeswara Reddy
 
 SYNOPSIS
        whatis keyword ...
